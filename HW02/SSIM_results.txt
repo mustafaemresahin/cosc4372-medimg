@@ -1,0 +1,3 @@
+SSIM between Image 1 and Image 2: 0.8011792922156804
+SSIM between Image 1 and Image 3: 0.7410609432246382
+SSIM between Image 1 and Image 4: 0.7339737294214165
