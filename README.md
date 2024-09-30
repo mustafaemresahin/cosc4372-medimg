@@ -1,1 +1,1 @@
-# cosc4372-medimg-hw1
+# cosc4372-medimg
